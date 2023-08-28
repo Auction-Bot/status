@@ -7,10 +7,10 @@ sites:
     icon: https://raw.githubusercontent.com/Auction-Bot/docs/master/Homepage/wwwroot/favicon.svg
 
 status-website:
-  theme: dark
+  theme: night
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: https://auction-bot.github.io/status/
+  name: Auction Bot
   introTitle: "**Auction Bot** uptime monitoring and status page"
   introMessage: Interruptions to Auction Bot services will be posted here.
   navbar:
