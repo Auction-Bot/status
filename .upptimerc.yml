@@ -9,6 +9,7 @@ sites:
 status-website:
   theme: night
   baseUrl: /status
+  faviconSvg: https://raw.githubusercontent.com/Auction-Bot/docs/master/Homepage/wwwroot/favicon.svg
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Auction Bot
   introTitle: "**Auction Bot** uptime monitoring and status page"
@@ -17,6 +18,6 @@ status-website:
     - title: Home
       href: https://auction-bot.github.io/docs
     - title: Status
-      href: /
+      href: /status
     - title: GitHub
       href: https://github.com/Auction-Bot/status
