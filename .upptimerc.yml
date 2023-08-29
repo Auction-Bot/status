@@ -5,6 +5,21 @@ sites:
   - name: Docs
     url: https://auction-bot.github.io/docs/
     icon: https://raw.githubusercontent.com/Auction-Bot/docs/master/Homepage/wwwroot/favicon.svg
+  - name: Bot Instance [shard:1]
+    url: $API_SHARD_ENDPOINT/0
+    __dangerous__insecure: true
+    __dangerous__body_degraded: '"status":"Connecting"'
+    __dangerous__body_down: '"status":"Offline"'
+  - name: Bot Instance [shard:2]
+    url: $API_SHARD_ENDPOINT/1
+    __dangerous__insecure: true
+    __dangerous__body_degraded: '"status":"Connecting"'
+    __dangerous__body_down: '"status":"Offline"'    
+  - name: Bot Instance [shard:3]
+    url: $API_SHARD_ENDPOINT/2
+    __dangerous__insecure: true
+    __dangerous__body_degraded: '"status":"Connecting"'
+    __dangerous__body_down: '"status":"Offline"'    
 
 status-website:
   theme: night
