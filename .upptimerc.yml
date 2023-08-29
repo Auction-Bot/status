@@ -29,6 +29,23 @@ status-website:
   name: Auction Bot
   introTitle: "**Auction Bot** uptime monitoring and status page"
   introMessage: Interruptions to Auction Bot services will be posted here.
+  metaTags:
+    - name: "author"
+      content: "Anu6is"  
+    - name: "description"
+      content: "View the status of Auction Bot services (Website & Bot)"
+    - name: "keywords"
+      content: "Auction Bot, Status, Uptime, Downtime, Up, Down, Online, Offline"  
+    - name: "og:type"
+      content: "website"
+    - name: "og:url"
+      content: "https://status.auctionbot.xyz/"
+    - name: "og:title"
+      content: "Auction Bot - Status"
+    - name: "og:description"
+      content: "Service acvitity monitor and status page."
+    - name: "og:image"
+      content: "https://cdn.discordapp.com/attachments/392788567622942730/1145464518059769866/image.png"  
   navbar:
     - title: Home
       href: https://auction-bot.github.io/docs
