@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 89,
-    "timeDay": 106,
-    "timeWeek": 83,
-    "timeMonth": 89,
-    "timeYear": 89,
+    "time": 90,
+    "timeDay": 113,
+    "timeWeek": 95,
+    "timeMonth": 90,
+    "timeYear": 90,
     "dailyMinutesDown": {}
   },
   {
@@ -22,18 +22,20 @@
     "url": "$API_SHARD_ENDPOINT/0",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bot-instance-shard-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 230,
-    "timeWeek": 181,
+    "timeDay": 195,
+    "timeWeek": 195,
     "timeMonth": 198,
     "timeYear": 198,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-21": 0
+    }
   },
   {
     "name": "Bot Instance [shard:2]",
@@ -47,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 56,
-    "timeDay": 72,
-    "timeWeek": 55,
+    "timeDay": 70,
+    "timeWeek": 61,
     "timeMonth": 56,
     "timeYear": 56,
     "dailyMinutesDown": {}
@@ -64,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 55,
-    "timeDay": 72,
-    "timeWeek": 54,
-    "timeMonth": 55,
-    "timeYear": 55,
+    "time": 56,
+    "timeDay": 70,
+    "timeWeek": 60,
+    "timeMonth": 56,
+    "timeYear": 56,
     "dailyMinutesDown": {}
   }
 ]
