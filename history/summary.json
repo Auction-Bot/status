@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 82,
-    "timeDay": 59,
+    "timeDay": 23,
     "timeWeek": 88,
-    "timeMonth": 95,
+    "timeMonth": 93,
     "timeYear": 82,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 178,
-    "timeDay": 1127,
-    "timeWeek": 338,
-    "timeMonth": 213,
+    "timeDay": 223,
+    "timeWeek": 310,
+    "timeMonth": 217,
     "timeYear": 178,
     "dailyMinutesDown": {}
   },
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 48,
-    "timeDay": 28,
-    "timeWeek": 35,
-    "timeMonth": 47,
+    "timeDay": 69,
+    "timeWeek": 41,
+    "timeMonth": 48,
     "timeYear": 48,
     "dailyMinutesDown": {}
   },
@@ -65,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 48,
-    "timeDay": 28,
-    "timeWeek": 38,
-    "timeMonth": 49,
+    "timeDay": 70,
+    "timeWeek": 44,
+    "timeMonth": 50,
     "timeYear": 48,
     "dailyMinutesDown": {}
   },
@@ -78,17 +78,15 @@
     "slug": "bot-instance-shard-4",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 45,
-    "timeDay": 29,
-    "timeWeek": 34,
-    "timeMonth": 46,
-    "timeYear": 45,
-    "dailyMinutesDown": {
-      "2024-04-20": 8
-    }
+    "time": 46,
+    "timeDay": 43,
+    "timeWeek": 38,
+    "timeMonth": 47,
+    "timeYear": 46,
+    "dailyMinutesDown": {}
   }
 ]
