@@ -24,7 +24,12 @@ sites:
     url: $API_SHARD_ENDPOINT/3
     __dangerous__insecure: true
     __dangerous__body_degraded: '"status":"Connecting"'
-    __dangerous__body_down: '"status":"Offline"'   
+    __dangerous__body_down: '"status":"Offline"' 
+  - name: Bot Instance [shard:5]
+    url: $API_SHARD_ENDPOINT/4
+    __dangerous__insecure: true
+    __dangerous__body_degraded: '"status":"Connecting"'
+    __dangerous__body_down: '"status":"Offline"'     
 status-website:
   theme: night
   baseUrl: /status
