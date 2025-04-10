@@ -1,7 +1,7 @@
 url: $API_SHARD_ENDPOINT/3
-status: degraded
+status: up
 code: 200
-responseTime: 28
-lastUpdated: 2025-04-10T19:59:07.829Z
+responseTime: 33
+lastUpdated: 2025-04-10T20:24:33.203Z
 startTime: 2023-11-20T21:40:28.190Z
 generator: Upptime <https://github.com/upptime/upptime>
