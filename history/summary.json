@@ -22,72 +22,79 @@
     "url": "$API_SHARD_ENDPOINT/0",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bot-instance-shard-1",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 169,
-    "timeDay": 240,
-    "timeWeek": 186,
-    "timeMonth": 182,
+    "timeDay": 178,
+    "timeWeek": 177,
+    "timeMonth": 180,
     "timeYear": 170,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-10": 0
+    }
   },
   {
     "name": "Bot Instance [shard:2]",
     "url": "$API_SHARD_ENDPOINT/1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bot-instance-shard-2",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 46,
-    "timeDay": 82,
-    "timeWeek": 53,
+    "timeDay": 57,
+    "timeWeek": 50,
     "timeMonth": 53,
     "timeYear": 46,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-10": 0
+    }
   },
   {
     "name": "Bot Instance [shard:3]",
     "url": "$API_SHARD_ENDPOINT/2",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bot-instance-shard-3",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 46,
-    "timeDay": 67,
-    "timeWeek": 55,
-    "timeMonth": 55,
+    "timeDay": 48,
+    "timeWeek": 52,
+    "timeMonth": 54,
     "timeYear": 45,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-10": 0
+    }
   },
   {
     "name": "Bot Instance [shard:4]",
     "url": "$API_SHARD_ENDPOINT/3",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bot-instance-shard-4",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 45,
-    "timeDay": 73,
-    "timeWeek": 51,
+    "timeDay": 51,
+    "timeWeek": 48,
     "timeMonth": 52,
     "timeYear": 45,
     "dailyMinutesDown": {
+      "2025-04-10": 0,
       "2024-10-22": 83,
       "2024-10-21": 2
     }
@@ -97,17 +104,19 @@
     "url": "$API_SHARD_ENDPOINT/4",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bot-instance-shard-5",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 46,
-    "timeDay": 69,
-    "timeWeek": 51,
-    "timeMonth": 54,
+    "timeDay": 51,
+    "timeWeek": 49,
+    "timeMonth": 53,
     "timeYear": 46,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-10": 0
+    }
   }
 ]
