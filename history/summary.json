@@ -151,17 +151,19 @@
     "url": "$API_SHARD_ENDPOINT/5",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "bot-instance-shard-6",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 35,
-    "timeDay": 30,
-    "timeWeek": 35,
-    "timeMonth": 35,
-    "timeYear": 35,
-    "dailyMinutesDown": {}
+    "time": 42,
+    "timeDay": 53,
+    "timeWeek": 42,
+    "timeMonth": 42,
+    "timeYear": 42,
+    "dailyMinutesDown": {
+      "2025-09-22": 0
+    }
   }
 ]
