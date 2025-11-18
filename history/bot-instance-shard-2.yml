@@ -1,7 +1,7 @@
 url: $API_SHARD_ENDPOINT/1
-status: down
-code: 500
-responseTime: 58
-lastUpdated: 2025-11-18T11:57:26.193Z
+status: up
+code: 200
+responseTime: 32
+lastUpdated: 2025-11-18T14:37:13.825Z
 startTime: 2023-08-29T16:06:37.997Z
 generator: Upptime <https://github.com/upptime/upptime>
